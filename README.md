@@ -1,2 +1,2 @@
-# naze
+# maze
 maze game using python lol
