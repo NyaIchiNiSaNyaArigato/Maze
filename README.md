@@ -1,2 +1,2 @@
 # maze
-maze game using python lol
+maze game created using python
